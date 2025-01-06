@@ -23,12 +23,6 @@ src/
 ├── app.module.ts
 .env
 ```
-=======
-=======
-# authsystem
-# JWT Authentication System
-
->>>>>>> 5dff73a58c45585e5cbc0e88fb8b81ffe5d36af2
 This project implements a secure and feature-rich authentication system using NestJS, JWT, SQLite, and TypeORM. It includes features such as user signup, login, role-based authentication, rate limiting, and password reset functionality.
 
 ---
@@ -329,3 +323,6 @@ CMD ["npm", "run", "start:prod"]in this
 =======
 [Full API Documentation]([#api-documentation](https://documenter.getpostman.com/view/12811269/2sAYJ9Ae6T))
 >>>>>>> 5dff73a58c45585e5cbc0e88fb8b81ffe5d36af2
+=======
+# authsystem
+>>>>>>> a220e51e3cc9cb64cd55b3cdb84eb21d2dabd59e
