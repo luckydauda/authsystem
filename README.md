@@ -319,10 +319,8 @@ CMD ["npm", "run", "start:prod"]in this
 ```
 
 [visit the full api documentation](https://documenter.getpostman.com/view/12811269/2sAYJ9Ae6T)
->>>>>>> fef48cbf1c7da6ba32f7942bb5cecfe7cdcb1e48
-=======
-[Full API Documentation]([#api-documentation](https://documenter.getpostman.com/view/12811269/2sAYJ9Ae6T))
->>>>>>> 5dff73a58c45585e5cbc0e88fb8b81ffe5d36af2
-=======
+
+
+
 # authsystem
->>>>>>> a220e51e3cc9cb64cd55b3cdb84eb21d2dabd59e
+e
